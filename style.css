@@ -1,0 +1,90 @@
+/*   All Selectors  */
+
+/*   Navigation   */
+.navbar{
+    /* z-index for bringing in forward element */
+    z-index: 1;
+}
+/*  App landing page  */
+.image{
+    height: 100vh;
+    background-image: url("images/nature.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-area{
+    height: 100vh;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+/*   Services    */
+/*   Offer       */
+.offer{
+    height: 32vh;
+    background-image: url("images/offer.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offer-row{
+    height: 32vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+/*   About     */
+.caro{
+    height: 50vh;
+}
+/*   Popular   */
+.popular{
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/*   Popular Image */
+.img-card{
+    height: 50vh;
+}
+.c-1{
+    position: absolute;
+    top:50%;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.overlay-c-1{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 50vh;
+    top: 0;
+}
+/*     Tips on travel  */
+.tip-img{
+    height: 50vh;
+    width: 40vw;
+}
+/*    Contact  */
+.contact{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.inp {
+    height: 3.5rem;
+    width: 50vw;
+    border: 3px solid #00adf3;
+    margin-bottom: 1.3rem;
+    border-radius: 5rem;
+  }
+  @media(max-width:600px){
+      .tip-img{
+          display: none;
+      }
+  }
