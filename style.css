@@ -25,14 +25,14 @@
 /*   Services    */
 /*   Offer       */
 .offer{
-    height: 32vh;
+    height: 37vh;
     background-image: url("images/offer.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .offer-row{
-    height: 32vh;
+    height: 37vh;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
 }
