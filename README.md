@@ -1,4 +1,6 @@
 <h1>TravelX</h1>
+<h3>Visit my URL</h3>
+<p>https://myself-ikram-travelx.netlify.app/</p>
 
 <p>A sample traveling website developed by using HTML/CSS and Boostrap.</p>
 <p>  Note: Alignment is evenly set,disalignment is seen due to screenshots taken</p>
