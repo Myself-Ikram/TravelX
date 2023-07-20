@@ -1,6 +1,7 @@
 <h1>TravelX</h1>
+
 <h3>Visit my URL:</h3>
-https://myself-ikram-travelx.netlify.app/
+<h4>https://myself-ikram-travelx.netlify.app/</h4>
 <p>Note:Loading may take long time due to high quality images</p>
 
 <p>A sample traveling website developed by using HTML/CSS and Boostrap.</p>
