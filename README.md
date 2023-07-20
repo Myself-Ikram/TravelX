@@ -2,7 +2,7 @@
 
 <h3>Visit my URL:</h3>
 <h4>https://myself-ikram-travelx.netlify.app/</h4>
-<p>Note:Loading may take long time due to high quality images</p>
+<p><h6>Note:</h6>Loading may take long time due to high quality images</p>
 
 <p>A sample traveling website developed by using HTML/CSS and Boostrap.</p>
 <p>  Note: Alignment is evenly set,disalignment is seen due to screenshots taken</p>
